@@ -1,0 +1,90 @@
+[
+  {
+    "number": "NV1",
+    "forsaken": "false",
+    "restricted": "true",
+    "warband": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault"
+  },
+  {
+    "number": "NV2",
+    "forsaken": "false",
+    "restricted": "false",
+    "warband": "cursebreakers",
+    "type": "ploy",
+    "season": "nightvault"
+  },
+  {
+    "number": "NV3",
+    "forsaken": "false",
+    "restricted": "true",
+    "warband": "cursebreakers",
+    "type": "upgrade",
+    "season": "nightvault"
+  },
+  {
+    "number": "NV4",
+    "forsaken": "false",
+    "restricted": "false",
+    "warband": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault"
+  },
+  {
+    "number": "NV5",
+    "forsaken": "false",
+    "restricted": "false",
+    "warband": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault"
+  },
+  {
+    "number": "NV6",
+    "forsaken": "false",
+    "restricted": "false",
+    "warband": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault"
+  },
+  {
+    "number": "NV7",
+    "forsaken": "false",
+    "restricted": "false",
+    "warband": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault"
+  },
+  {
+    "number": "NV8",
+    "forsaken": "false",
+    "restricted": "false",
+    "warband": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault"
+  },
+  {
+    "number": "NV9",
+    "forsaken": "false",
+    "restricted": "false",
+    "warband": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault"
+  },
+  {
+    "number": "NV10",
+    "forsaken": "false",
+    "restricted": "false",
+    "warband": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault"
+  },
+  {
+    "number": "NV11",
+    "forsaken": "false",
+    "restricted": "false",
+    "warband": "cursebreakers",
+    "type": "objective",
+    "season": "nightvault"
+  }
+]
